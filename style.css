@@ -17,7 +17,7 @@ body {
   position: absolute;
   top: 60%;
   width: 80%;
-  height: 85%;
+  height: 82%;
   flex-shrink: 0;
   border-radius: 20px;
   background: var(
@@ -79,7 +79,7 @@ label span {
   position: absolute;
   top: 140%;
   width: 80%;
-  height: 293px;
+  height: 50%;
   flex-shrink: 0;
   border-radius: 20px;
   background: var(
